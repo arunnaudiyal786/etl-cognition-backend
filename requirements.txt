@@ -1,0 +1,9 @@
+langgraph
+langchain-core
+langchain-openai
+langchain
+typing-extensions
+fastapi
+uvicorn[standard]
+python-multipart
+aiofiles
